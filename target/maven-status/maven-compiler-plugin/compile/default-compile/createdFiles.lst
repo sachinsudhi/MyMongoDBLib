@@ -1,0 +1,8 @@
+trng\mongodb\MongoBlogOperationsApp$1.class
+trng\mongodb\model\Blog.class
+trng\mongodb\MongoBlogOperationsApp.class
+trng\mongodb\MongoBlogOperationsApp$BlogOperation.class
+trng\mongodb\controller\BlogController.class
+trng\mongodb\SearchCriteria.class
+trng\mongodb\model\BlogComment.class
+trng\mongodb\repo\BlogRepository.class
